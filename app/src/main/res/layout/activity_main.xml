@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity"
+    android:background="@drawable/backgroundpicturemain">
+
+    <androidx.fragment.app.FragmentContainerView
+        android:id="@+id/fragmentContainer"
+        android:layout_width="match_parent"
+        android:layout_height="600dp" />
+
+
+    <ScrollView
+        android:id="@+id/scrollView"
+        android:layout_width="match_parent"
+        android:layout_height="200dp"
+        android:layout_alignParentBottom="true"
+        android:background="@drawable/woodone">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <Button
+                android:id="@+id/fragmentOneButton"
+                android:layout_width="match_parent"
+                android:layout_height="100dp"
+                android:backgroundTint="@color/lightbrown"
+                android:layout_gravity="center"
+                android:text="How to Add Font" />
+
+            <Button
+                android:id="@+id/fragmentTwoButton"
+                android:layout_width="match_parent"
+                android:layout_height="100dp"
+                android:backgroundTint="@color/lightbrown"
+                android:text="" />
+
+            <Button
+                android:id="@+id/fragmentThreeButton"
+                android:layout_width="match_parent"
+                android:layout_height="100dp"
+                android:backgroundTint="@color/lightbrown"
+                android:text="" />
+
+            <Button
+                android:id="@+id/fragmentFourButton"
+                android:layout_width="match_parent"
+                android:layout_height="100dp"
+                android:backgroundTint="@color/lightbrown"
+                android:text="" />
+
+            <Button
+                android:id="@+id/fragmentFiveButton"
+                android:layout_width="match_parent"
+                android:layout_height="100dp"
+                android:backgroundTint="@color/lightbrown"
+                android:text="" />
+
+        <Button
+            android:id="@+id/fragmentSixButton"
+            android:layout_width="match_parent"
+            android:layout_height="100dp"
+            android:backgroundTint="@color/lightbrown"
+            android:text="" />
+
+
+        <Button
+                android:id="@+id/fragmentSevenButton"
+                android:layout_width="match_parent"
+                android:layout_height="100dp"
+                android:backgroundTint="@color/lightbrown"
+                android:text="" />
+
+            <Button
+                android:id="@+id/fragmentEightButton"
+                android:layout_width="match_parent"
+                android:layout_height="100dp"
+                android:backgroundTint="@color/lightbrown"
+                android:text="" />
+
+            <Button
+                android:id="@+id/fragmentNineButton"
+                android:layout_width="match_parent"
+                android:layout_height="100dp"
+                android:backgroundTint="@color/lightbrown"
+                android:text="" />
+
+            <Button
+                android:id="@+id/fragmentTenButton"
+                android:layout_width="match_parent"
+                android:layout_height="100dp"
+                android:backgroundTint="@color/lightbrown"
+                android:text="" />
+        </LinearLayout>
+    </ScrollView>
+
+    <TextView
+        android:id="@+id/logotext"
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:fontFamily="@font/brushfont"
+        android:gravity="center"
+        android:text="The Archive"
+        android:textColor="@color/black"
+        android:textSize="50sp"
+        android:textStyle="bold" />
+
+</RelativeLayout>

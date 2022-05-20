@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="app/src/main/res/drawable/gradient_background.xml" value="0.1105" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.2722222222222222" />
+        <entry key="app/src/main/res/layout/fragmenteight.xml" value="0.2722222222222222" />
+        <entry key="app/src/main/res/layout/fragmenteightteen.xml" value="0.34444444444444444" />
+        <entry key="app/src/main/res/layout/fragmenteleven.xml" value="0.34444444444444444" />
+        <entry key="app/src/main/res/layout/fragmentfive.xml" value="0.2722222222222222" />
+        <entry key="app/src/main/res/layout/fragmentfiveteen.xml" value="0.34444444444444444" />
+        <entry key="app/src/main/res/layout/fragmentfour.xml" value="0.2722222222222222" />
+        <entry key="app/src/main/res/layout/fragmentfourteen.xml" value="0.34444444444444444" />
+        <entry key="app/src/main/res/layout/fragmentnine.xml" value="0.2722222222222222" />
+        <entry key="app/src/main/res/layout/fragmentnineteen.xml" value="0.34444444444444444" />
+        <entry key="app/src/main/res/layout/fragmentone.xml" value="0.2722222222222222" />
+        <entry key="app/src/main/res/layout/fragmentseven.xml" value="0.2722222222222222" />
+        <entry key="app/src/main/res/layout/fragmentseventeen.xml" value="0.34444444444444444" />
+        <entry key="app/src/main/res/layout/fragmentsix.xml" value="0.2722222222222222" />
+        <entry key="app/src/main/res/layout/fragmentsixteen.xml" value="0.34444444444444444" />
+        <entry key="app/src/main/res/layout/fragmentten.xml" value="0.2722222222222222" />
+        <entry key="app/src/main/res/layout/fragmenttenteen.xml" value="0.34444444444444444" />
+        <entry key="app/src/main/res/layout/fragmentthirteen.xml" value="0.34444444444444444" />
+        <entry key="app/src/main/res/layout/fragmentthree.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/fragmenttwelve.xml" value="0.34444444444444444" />
+        <entry key="app/src/main/res/layout/fragmenttwo.xml" value="0.25" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
